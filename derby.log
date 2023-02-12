@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 12 20:27:17 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-4621-5fa2-00004aed0060 
+on database directory memory:/Users/vsubramani/IdeaProjects/junit-rest-api-application/0bd6f647-ae1f-45fe-bafe-183a4a6dc65a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/Users/vsubramani/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Homebrew
+java.runtime.version=11.0.12+0
+user.dir=/Users/vsubramani/IdeaProjects/junit-rest-api-application
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
